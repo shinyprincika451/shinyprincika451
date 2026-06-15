@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-# 🎮 Hi, I'm Princika!
+# 🎮 Hi, I'm Shiny Princika!
 ### Unity Developer | AR/VR Engineer | C# Programmer
 
 *Building the future of immersive experiences — one scene at a time.*
