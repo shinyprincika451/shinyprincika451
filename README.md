@@ -57,4 +57,4 @@ Hi! I'm a passionate Unity developer crafting immersive games and AR/VR experien
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](YOUR_ITCH_URL)
 
 ---
-⚡ *Passionate about creating immersive experiences that blend creativity with technical problem-solving.*
+⚡ *Passionate about creating immersive experiences that blend creativity with technical problem solving.*
