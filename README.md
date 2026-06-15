@@ -1,16 +1,25 @@
-## Hi there 👋
+🎮 Unity Developer | AR/VR Enthusiast | C# Programmer
 
-<!--
-**shinyprincika451/shinyprincika451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about creating immersive games and interactive experiences using Unity. Experienced in gameplay programming, UI systems, AR/VR development, and mobile game optimization. Constantly learning new technologies and building projects that combine creativity with technical problem-solving.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+Unity Engine
+C#
+AR Foundation
+XR Interaction Toolkit
+VR Development
+Mobile Game Development
+UI/UX Implementation
+Git & GitHub
+📌 Current Focus
+AR/VR Applications
+Interactive Experiences
+Game Mechanics & Systems
+Performance Optimization
+🌱 Learning
+Advanced Unity Architecture
+Multiplayer Development
+Shader Graph & VFX
+📫 Connect With Me
+LinkedIn: [Your LinkedIn URL]
+Email: [Your Email]
